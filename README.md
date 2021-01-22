@@ -1,3 +1,3 @@
 # JSweeper
 
-A simple implementaion of the classic Minesweeper game in vanilla JS
+A simple implementation of the classic Minesweeper game in vanilla JS
